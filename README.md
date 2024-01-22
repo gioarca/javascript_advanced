@@ -37,9 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Hacker News][assets/images/favicon-16x16.png]](https://github.com/gioarca/javascript_advanced)
-
-I show you today a project where you can read tons of different news with this small web-app.
+I'm glad to show you here the second project made by JS where you can read tons of different news through this small web-app.
 
 Here's why I choose this:
 * A project that solves a problem regarding the information and helps others to know more about the tech world
