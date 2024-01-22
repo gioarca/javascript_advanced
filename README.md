@@ -46,7 +46,7 @@ Here's why I choose this:
 
 Use the `index.html` to get started. or if you want here below there is the app ready to use:
 
-<a href="https://marvelous-ganache-da45b5.netlify.app">https://marvelous-ganache-da45b5.netlify.app</a>
+<a href="https://marvelous-ganache-da45b5.netlify.app" target="_blank">https://marvelous-ganache-da45b5.netlify.app</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
