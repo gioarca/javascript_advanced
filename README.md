@@ -44,7 +44,9 @@ Here's why I choose this:
 * It's easy to understand and you get a lot of information for free!
 * You just have to open the web-app and follow the instructions included in it :smile:
 
-Use the `index.html` to get started.
+Use the `index.html` to get started. or if you want here below there is the app ready to use:
+
+<a href="https://marvelous-ganache-da45b5.netlify.app">https://marvelous-ganache-da45b5.netlify.app</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
