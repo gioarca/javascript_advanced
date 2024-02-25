@@ -46,7 +46,7 @@ Here's why I choose this:
 
 Use the `index.html` to get started or if you want here below there is the app ready to use:
 
-<a href="https://marvelous-ganache-da45b5.netlify.app" target="_blank">https://marvelous-ganache-da45b5.netlify.app</a>
+<a href="https://javascript-advanced.netlify.app/" target="_blank">https://javascript-advanced.netlify.app/</a>
 
 You can find also the files related to the application of webpack indeed they are:
 - webpack.common.js -> both of the below files are merged in this common one
