@@ -37,16 +37,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I'm glad to show you here the second project made by JS where you can read tons of different news through this small web-app.
+I show you here the second project made by JavaScript where you can read tons of different news through this small web-app.
 
 Here's why I choose this:
-* A project that solves a problem regarding the information and helps others to know more about the tech world
-* It's easy to understand and you get a lot of information for free!
+* A project that solves a problem regarding the information and helps others to know more about the tech world;
+* It's easy to understand and you get a lot of information for free;
 * You just have to open the web-app and follow the instructions included in it :smile:
 
-Use the `index.html` to get started. or if you want here below there is the app ready to use:
+Use the `index.html` to get started or if you want here below there is the app ready to use:
 
 <a href="https://marvelous-ganache-da45b5.netlify.app" target="_blank">https://marvelous-ganache-da45b5.netlify.app</a>
+
+You can find also the files related to the application of webpack indeed they are:
+- webpack.common.js -> both of the below files are merged in this common one
+- webpack.dev.js  -> used to the develop the app
+- webpack.prod.js -> used for the production of the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,6 +63,7 @@ I made this project with:
 * [HTML]
 * [CSS]
 * [JavaScript]
+* [Webpack]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -7,7 +7,11 @@
 }
 
 .advanced {
-    padding-top: 10px;
+    padding-top: 20px;
+}
+
+#anchor {
+    color: rgb(155, 27, 27)
 }
 
 #load-more-btn {
@@ -26,9 +30,15 @@
 }
 
 #load-more-btn:hover {
-    background-color: rgba(119, 255, 0, 0.596); /* Green */
+    background-color: rgba(255, 0, 0, 0.596); /* Red */
     color: black;
   }
+
+#load-more-btn:active {
+    background-color: white;
+    transition: 0.2s;
+  }
+  
 
 footer {
     float: center;
