@@ -11,7 +11,7 @@
 }
 
 #anchor {
-    color: rgb(155, 27, 27)
+    color: #2E0000; 
 }
 
 #load-more-btn {
@@ -30,7 +30,7 @@
 }
 
 #load-more-btn:hover {
-    background-color: rgba(255, 0, 0, 0.596); /* Red */
+    background-color: #2E0000; /* Red */
     color: black;
   }
 
@@ -91,7 +91,7 @@ footer {
     body, footer {
         font-size: 90%;
         width: 100%;
-        height: 80%;
+        height: 85%;
     }
 
     #news-container {
