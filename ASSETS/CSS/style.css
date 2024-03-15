@@ -11,7 +11,7 @@
 }
 
 #anchor {
-    color: #2E0000; 
+    color: #242318; 
 }
 
 #load-more-btn {
@@ -30,8 +30,8 @@
 }
 
 #load-more-btn:hover {
-    background-color: #2E0000; /* Red */
-    color: black;
+    background-color: #242318; /* Red */
+    color: white;
   }
 
 #load-more-btn:active {
